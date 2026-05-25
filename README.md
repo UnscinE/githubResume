@@ -206,7 +206,7 @@ Special Program
 # 📫 Contact
 
 * 📧 Email: [tantawat.tan@kkumail.com](mailto:tantawat.tan@kkumail.com)
-* 📱 Phone: [095-901-1219](tel:0959011219)
+* 📱 Phone: [095-901-1219](tel:+66959011219)
 * 💻 GitHub: [https://github.com/UnscinE](https://github.com/UnscinE)
 
 ---
